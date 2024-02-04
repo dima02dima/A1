@@ -1,0 +1,12 @@
+.wrapper {
+	height: 100%;
+	width: 100%;
+}
+.menu_1 {
+	background: url(../img/menu/1-1.png) center no-repeat;
+	background-size: 100%;
+}
+
+img {
+	width: 100%;
+}
